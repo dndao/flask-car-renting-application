@@ -127,7 +127,7 @@ pip install -r requirements.txt
 
 ## Assignment 3 Contributions
 #### Group Members
-- [Đào Việt Quang](https://github.com/DanDanDao)
+- [Đào Việt Quang](https://github.com/dndao)
 - [Donald U'Ren](https://github.com/donald-uren)
 - [Jordy Woodroffe](https://github.com/jordanwoodroffe)
 - [Kev Mason](https://github.com/Evzy)
